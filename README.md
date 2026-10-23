@@ -1,9 +1,13 @@
 # CS 300 DSA: Analysis and Design
 
-This repository holds two pieces of my work from CS 300. Both come from the same scenario, an advising program for ABCU's Computer Science department.
+This repository holds my work from both CS 300 projects. Everything comes from the same scenario, an advising program for ABCU's Computer Science department.
 
-- **CS300 Project One Pseudocode and Runtime Analysis.docx** is my design document from Project One. It has the pseudocode for a vector, a hash table, and a binary search tree, a Big O runtime and memory analysis of each one, and my recommendation for which structure the program should use.
+- **CS300 Milestone One.docx** has my pseudocode for loading the course file, building course objects, and searching and printing a course with a vector.
+- **CS300 Milestone Two.docx** has the same pseudocode built around a hash table.
+- **CS300 Milestone Three.docx** has the same pseudocode built around a binary search tree.
+- **CS300 Project One Pseudocode and Runtime Analysis.docx** is my final Project One document. It has the menu and sorted course list pseudocode, a Big O runtime and memory analysis of each structure, and my recommendation for which structure the program should use.
 - **ProjectTwo.cpp** is the working C++ program from Project Two. It loads the course file into a hash table, prints every Computer Science course in alphanumeric order, and prints the title and prerequisites for any single course.
+- **CS 300 ABCU_Advising_Program_Input.csv** is the course file the program reads.
 
 ## Reflection
 
